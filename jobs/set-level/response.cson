@@ -1,0 +1,11 @@
+title: 'SetLevel'
+type: 'object'
+properties:
+  data:
+    type: 'object'
+    properties:
+      response:
+        type: 'string'
+    required: [
+      'response'
+    ]

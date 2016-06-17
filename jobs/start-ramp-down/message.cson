@@ -1,0 +1,11 @@
+title: 'Start Ramp Down'
+type: 'object'
+properties:
+  data:
+    type: 'object'
+    properties:
+      id:
+        type: 'number'
+    required: [
+      'id'
+    ]

@@ -1,0 +1,14 @@
+title: 'Set Temporary Ramp Duration'
+type: 'object'
+properties:
+  data:
+    type: 'object'
+    properties:
+      id:
+        type: 'number'
+      level:
+        type: 'number'
+    required: [
+      'id'
+      'level'
+    ]
